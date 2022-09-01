@@ -1,0 +1,10 @@
+header{
+    background-color: rgb(233, 243, 255);
+}
+.name{
+    text-align: center;
+    color: rgb(0, 0, 77);
+    margin-top: 1px;
+    margin-bottom: 1px;
+    box-shadow: 5px 5px 15px black ;
+}
